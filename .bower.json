@@ -1,0 +1,58 @@
+{
+  "name": "angular-liveconference",
+  "authors": [
+    "Linagora folks"
+  ],
+  "description": "Live Conference Module for Angular with WebRTC support",
+  "keywords": [
+    "social",
+    "network",
+    "data",
+    "mining",
+    "angular",
+    "webrtc",
+    "easyrtc"
+  ],
+  "license": "AGPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "opangular": "https://ci.open-paas.org/stash/scm/opangmod/opangular.git",
+    "jquery": "2.1.1",
+    "angular": "1.3.15",
+    "angular-route": "1.3.15",
+    "angular-mocks": "1.3.15",
+    "angular-animate": "1.3.15",
+    "angular-sanitize": "1.3.15",
+    "chai": "~1.9.0",
+    "chai-spies": "chaijs/chai-spies#~0.6.0",
+    "jquery-resize": "*"
+  },
+  "resolutions": {
+    "angular": "1.3.15",
+    "angular-route": "1.3.15",
+    "angular-mocks": "1.3.15",
+    "angular-animate": "1.3.15",
+    "angular-sanitize": "1.3.15",
+    "angular-moment": "0.10.1",
+    "moment": ">=2.8.0 <2.11.0"
+  },
+  "devDependencies": {
+    "angular-moment": "0.10.1",
+    "moment": "2.10.3",
+    "moment-timezone": "0.4.0"
+  },
+  "_release": "03713e5a7d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "03713e5a7d7125cbfab2ff28427f222d7598684f"
+  },
+  "_source": "https://ci.open-paas.org/stash/scm/opangmod/angular-liveconference.git",
+  "_target": "*",
+  "_originalSource": "https://ci.open-paas.org/stash/scm/opangmod/angular-liveconference.git"
+}
